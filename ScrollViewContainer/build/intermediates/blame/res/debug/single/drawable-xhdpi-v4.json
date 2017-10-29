@@ -1,35 +1,43 @@
 [
     {
-        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g.jpg",
-        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\g.jpg"
-    },
-    {
-        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d.jpg",
-        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\d.jpg"
-    },
-    {
-        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m.jpg",
-        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\m.jpg"
-    },
-    {
-        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\j.jpg",
-        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\j.jpg"
-    },
-    {
-        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a.jpg",
-        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\a.jpg"
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\c.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\c.jpg"
     },
     {
         "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\k.jpg",
         "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\k.jpg"
     },
     {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\i.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\i.jpg"
+    },
+    {
         "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\h.jpg",
         "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\h.jpg"
     },
     {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\l.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\f.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\f.jpg"
+    },
+    {
         "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\c.jpg",
         "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\c.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\e.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\e.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\h.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\h.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\b.jpg"
     },
     {
         "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b.jpg",
@@ -48,7 +56,51 @@
         "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\i.jpg"
     },
     {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\k.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\k.jpg"
+    },
+    {
         "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l.jpg",
         "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\l.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g.jpg",
+        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\g.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d.jpg",
+        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\d.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\m.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m.jpg",
+        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\m.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\g.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\j.jpg",
+        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\j.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a.jpg",
+        "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\a.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\d.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\a.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\j.jpg",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\j.jpg"
     }
 ]

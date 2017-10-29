@@ -2,5 +2,9 @@
     {
         "merged": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\ASworkspace\\shoppingmail2\\ScrollViewContainer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ASworkspace\\shoppingmall\\ScrollViewContainer\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
