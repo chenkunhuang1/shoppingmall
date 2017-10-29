@@ -1,0 +1,3 @@
+include ':app', ':banner', ':addsubview'
+include ':ScrollViewContainer'
+include ':alipay_demo'
